@@ -1,7 +1,11 @@
 # C-codes-exercises
-Exercises about C programming. PUC-PR. 
-## Codes: Biggest row on a 3x3 matrix
-## Principal Diagonal 3x3 matrix
-## Matrix made of x lines and y colluns
-## Search for x in a matrix
-## 100 vector with no numbers multiples of 7.
+
+Exercises about C programming at PUC-PR.
+
+## Codes
+
+- [Biggest row on a 3×3 matrix](Biggest%20row.c)
+- [Principal Diagonal 3×3 matrix](Diagonal%20-%20Matrix.c)
+- [Matrix made of x lines and y columns](Matrix-XY.c)
+- [Search for x in a matrix](Search%20for%20X.c)
+- [100-element vector with no multiples of 7](V100.c)
